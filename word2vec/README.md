@@ -33,8 +33,8 @@ word2vecの手法で生成した100次元、200次元のデータセットを提
 <a name="download"></a>
 ## ダウンロード
 
-*   [100次元のワードベクトル](#100)
-*   [200次元のワードベクトル](#200)
+*   [100次元のワードベクトル](https://github.com/bizreach/ai/releases/download/2018-03-13/stanby-jobs-100d-word2vector.bin)
+*   [200次元のワードベクトル](https://github.com/bizreach/ai/releases/download/2018-03-13/stanby-jobs-200d-word2vector.bin)
 
 ### ライセンス
 
