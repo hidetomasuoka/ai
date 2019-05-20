@@ -51,7 +51,7 @@ word2vecの手法で生成した100次元、200次元のデータセットを提
     from gensim.models import KeyedVectors
     
 
-    MODEL_FILENAME = "models/stanby-jobs-100d-word2vector"
+    MODEL_FILENAME = "models/stanby-jobs-100d-word2vector.bin"
     w2v = KeyedVectors.load_word2vec_format(MODEL_FILENAME, binary=True)
     
 
